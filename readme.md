@@ -1,1 +1,1 @@
-[Click here for 404 page]
+[Click here for 404 page]()
